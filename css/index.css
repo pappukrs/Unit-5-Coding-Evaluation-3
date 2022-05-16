@@ -1,0 +1,27 @@
+.navbar{
+    margin-left:30%;
+    margin-right:30%;
+    margin-top:2%;
+    background-color: teal;
+    border:2px solid red;
+    display:flex;
+    justify-content: space-between;
+    padding:20px;
+
+}
+
+.navbar a{
+    text-decoration: none;
+    padding:20px;
+    color:white;
+    font-size:20px;
+}
+.navbar a:hover{
+    background-color: black;
+    color:white;
+}
+.container{
+    margin-left:30%;
+    margin-right:30%;
+    margin-top:2%;
+}
